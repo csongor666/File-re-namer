@@ -16,6 +16,9 @@ Undo: undo once the rename
 
 # To be installed
 PySimpleGUI
+
         pip install PySimpleGUI
+        
 ktinker
+
         pip install tk
