@@ -1,6 +1,4 @@
 # File-re-namer
-
-# Description
 Rename file list in a folder based on an other folder file names.
 The length of the file list in the two folders must be the same.
 
@@ -12,11 +10,11 @@ Rename: rename the files on the rigth to the left
 Undo: undo once the rename
 
 # Future plans
-	title option befor/after name
-	list length visible
+-Title option befor/after name
+-List length visible
 
 # To be installed
 PySimpleGUI
-  pip install PySimpleGUI
+  	pip install PySimpleGUI
 ktinker
-  pip install tk
+  	pip install tk
