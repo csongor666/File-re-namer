@@ -11,10 +11,11 @@ Undo: undo once the rename
 
 # Future plans
 -Title option befor/after name
+
 -List length visible
 
 # To be installed
 PySimpleGUI
-  	pip install PySimpleGUI
+        pip install PySimpleGUI
 ktinker
-  	pip install tk
+        pip install tk
