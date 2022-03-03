@@ -1,5 +1,5 @@
 # File-re-namer
-Rename file list in a folder based on an other folder file names.
+Rename file names in a folder based on file names in an other folder.
 The length of the file list in the two folders must be the same.
 
 # Buttons
