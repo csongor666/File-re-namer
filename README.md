@@ -26,3 +26,42 @@ PySimpleGUI
 ktinker
 
         pip install tk
+
+# Version History
+## File-re-namer 1.0
+Rename file names in a folder based on file names in an other folder.
+
+Folder with source names: from this folder will be the source list of the file names
+Folder to rename: the files in this folder will be renamed as the source list names
+Title: title goes to the end of the file name if you need it
+Rename: rename the files on the rigth to the left
+Undo: undo once the rename
+
+The length of the file list in the two folders must be the same.
+
+## File-re-namer 1.2.2
+Excel file readable, fist column is the list of file names.
+Can't undo after rename (because in the excel the file names musn't be in alphabetic list)
+
+## File-re-namer 1.2.3
+List lengths is visible next to the list window
+
+## File-re-namer 1.3.0
+Images to rename (Folder to rename column) can see in small window on the right,
+ if you click on the name of it. Above the thumbnail a small section of the image is
+viewable, where usually is the name of the figure in Artemis.
+
+## File-re-namer 1.3.4
+In small windows pdf is also viewable.
+
+## File-re-namer 1.3.5
+Sub-directories don't disturb the rename process, file number count
+
+## File-re-namer 1.5
+Before After title at the same time
+
+## File-re-namer 1.5.1
+Identifier column available from excel
+
+## File-re-namer 1.5.2.1
+Thumb.db don't disturb the file reading, rename process, file number count
